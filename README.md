@@ -7,10 +7,10 @@
 C#, Python, JavaScript, TypeScript, NodeJS
 
 ### 🛠️ I can use these stacks
-svelte, discord.js, discord.py, express, sql
+next.js, svelte, discord.js, discord.py, express, sql
 
  ### 🌏 I can do these things.
-Korean(Native), English(about 60%), Japanese(less than 10%) and Lead the team
+Korean(Native), English(about 60%), Japanese(less than 10%)
 
  ### ✅ More infomation.
  + I am interseted in Earthquake, Geology, Medical, Railway.
