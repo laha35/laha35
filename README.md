@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=ff8fdf&height=350&section=header&text=rujhexy&fontSize=110)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=ff8fdf&height=350&section=header&text=laha35&fontSize=110)
  
  ## ℹ️ I am a high school student who is interested in programming in Korea.
-[![rujhexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rujhexy&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
+[![laha35's GitHub stats](https://github-readme-stats.vercel.app/api?username=laha35&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
 
  ### 🛠️ I can use these programming languages
 C#, Python, JavaScript, TypeScript, NodeJS
@@ -18,4 +18,4 @@ Korean(Native), English(about 60%), Japanese(less than 10%) and Lead the team
  + I have been coding since 2017.
 
  ### 📱 Contact Me
- email :  hello@hya35.com  
+ email :  hello@jkahya.com  
