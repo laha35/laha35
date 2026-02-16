@@ -1,5 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f278c5,100:daaeea&height=180&text=Laha35&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://raw.githubusercontent.com/laha35/laha35/refs/heads/main/1.png" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
