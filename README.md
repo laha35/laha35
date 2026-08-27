@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f278c5,100:daaeea&height=180&text=Laha35&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:f278c5,100:daaeea&height=180&text=hyeona&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -39,7 +39,7 @@
     <div align= "center">  </div> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  📱 Contact Me
  </h2> <br> 
-    <div align= "center">  [email] i@laha35.com   </div>  <br> 
+    <div align= "center">  [email] i@hyeona3.com   </div>  <br> 
     <div align= "center">  </div> 
     </div>
     
